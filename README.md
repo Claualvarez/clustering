@@ -3,7 +3,7 @@
 Path to clans  
 `/usr/local/bin/clans/clans.jar`
 
-Path to run files  
+Path to input files  
 `/home/blastdb/alignments/mitoRibosome`
 
 # Prepare to use Linux graphical applications remotely
