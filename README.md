@@ -31,7 +31,7 @@ Connect to the VPN, then open a termianl and connect to apollo2 using ssh -X, fo
 ## Verify that you can open clans
 1. Connect to the VPN
 2. Connect to apollo2
-3. In a terminal (in apollo2) type:
+3. In a terminal (in apollo2) type:  
 `java -jar /usr/local/bin/clans/clans.jar`
 
 ## Load a run file in clans
