@@ -1,7 +1,7 @@
 # Useful paths 
 
-Path to fasta files  
-`/home/blastdb/alignments/mitoRibosome`
+Path to clans  
+`/usr/local/bin/clans/clans.jar`
 
 Path to run files  
 `/home/blastdb/alignments/mitoRibosome`
@@ -23,6 +23,8 @@ Path to run files
 # Clans tutorial
 
 ## Verify that you can open clans
+
+`java -jar /usr/local/bin/clans/clans.jar`
 
 ## Load a run file in clans
 
