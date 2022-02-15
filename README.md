@@ -22,7 +22,7 @@ Path to input files
 [PuTTY SSH client for Mac OSX](https://www.ssh.com/academy/ssh/putty/mac)
 
 
-Connect to the VPN, then open a termianl and connect to apollo2 using ssh -X, for example:
+Connect to the VPN, then open a termianl and connect to apollo2 using ssh -X, for example:  
 `ssh -X name@apollo2.chemistry.gatech.edu`
 
 
@@ -36,7 +36,7 @@ Connect to the VPN, then open a termianl and connect to apollo2 using ssh -X, fo
 
 ## Load a run file in clans
 1. Make a working directory in apollo2, for example:  
-`mkdir mitoProteins_claudia`
+`mkdir mitoProteins_claudia`  
 `cd mitoProteins_claudia`
 
 2. Copy the example file for the tutorial to your working directory  
