@@ -28,6 +28,8 @@ Connect to the VPN, then open a termianl and connect to apollo2 using ssh -X, fo
 
 # Clans tutorial
 
+Clans user guide [here](http://ftp.tuebingen.mpg.de/pub/protevo/CLANS/CLANS_userguide.pdf).
+
 ## Verify that you can open clans
 1. Connect to the VPN
 2. Connect to apollo2
