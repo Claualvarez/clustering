@@ -23,7 +23,7 @@ Path to input files
 
 
 Connect to the VPN, then open a termianl and connect to apollo2 using ssh -X, for example:
-`ssh -X username@apollo2.chemistry.gatech.edu`
+`ssh -X name@apollo2.chemistry.gatech.edu`
 
 
 # Clans tutorial
