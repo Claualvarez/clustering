@@ -11,6 +11,7 @@ Path to run files
 ## Instructions for Windows users
 
 [Configure Putty & Xming](https://laptops.eng.uci.edu/engineering-software/using-linux/how-to-configure-putty-xming-on-your-laptop)
+1. [Xming](https://laptops.eng.uci.edu/engineering-software/using-linux/how-to-configure-putty-xming-on-your-laptop#h.vz90u7d6s3fh)
 
 ## Instructions for Mac users
 
