@@ -14,8 +14,9 @@ Path to input files
 1. [Xming](https://laptops.eng.uci.edu/engineering-software/using-linux/how-to-configure-putty-xming-on-your-laptop#h.vz90u7d6s3fh)
 2. [Putty](https://laptops.eng.uci.edu/engineering-software/using-linux/how-to-configure-putty-xming-on-your-laptop#h.zfa31svy3pm5)
 > Note: follow the steps as indicated, but in the box under Saved Sessions type apollo2.chemistry.gatech.edu 
+> Then click on the Save button to the right. 
 
-    Then click on the Save button to the right. 
+
 ## Instructions for Mac users
 
 [PuTTY SSH client for Mac OSX](https://www.ssh.com/academy/ssh/putty/mac)
