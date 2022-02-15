@@ -47,6 +47,9 @@ Clans user guide [here](http://ftp.tuebingen.mpg.de/pub/protevo/CLANS/CLANS_user
 3. Open clans and load the example file  
 `java -jar /usr/local/bin/clans/clans.jar -load example`
 
+You should see something like this:  
+![](https://github.com/Claualvarez/clustering/blob/main/images/clans_example.png)
+
 4. Check the `show connections` box
 
 ## Modify the P-value 
