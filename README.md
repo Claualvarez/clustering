@@ -47,6 +47,8 @@ Clans user guide [here](http://ftp.tuebingen.mpg.de/pub/protevo/CLANS/CLANS_user
 3. Open clans and load the example file  
 `java -jar /usr/local/bin/clans/clans.jar -load example`
 
+4. Check the `show connections` box
+
 ## Modify the P-value 
 
 ## Find clisters
