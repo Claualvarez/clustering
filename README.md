@@ -1,3 +1,8 @@
+# Useful paths 
+
+Path to sequences  
+`/home/blastdb/alignments/mitoRibosome`
+
 # Prepare to use Linux graphical applications remotely
 
 ## Instructions for Windows users
