@@ -52,6 +52,9 @@ You should see something like this:
 
 4. Check the `show connections` box
 
+5. Click the `slect/MOVE` button to change from moving to selecting mode.  
+6. The button now should say `SELECT/move`
+
 ## Modify the P-value 
 
 ## Find clisters
