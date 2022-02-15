@@ -19,6 +19,8 @@ Path to input files
 
 ## Instructions for Mac users
 
+`brew install --cask xquartz`
+
 [PuTTY SSH client for Mac OSX](https://www.ssh.com/academy/ssh/putty/mac)
 
 
