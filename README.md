@@ -21,7 +21,8 @@ Note: follow the steps as indicated, but in the box under Saved Sessions type ap
 [PuTTY SSH client for Mac OSX](https://www.ssh.com/academy/ssh/putty/mac)
 
 
-## Connect to apollo2 using ssh -X
+Connect to the VPN, then open a termianl and connect to apollo2 using ssh -X, for example:
+`ssh -X username@apollo2.chemistry.gatech.edu`
 
 
 # Clans tutorial
