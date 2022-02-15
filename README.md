@@ -1,6 +1,9 @@
 # Useful paths 
 
-Path to sequences  
+Path to fasta files  
+`/home/blastdb/alignments/mitoRibosome`
+
+Path to run files
 `/home/blastdb/alignments/mitoRibosome`
 
 # Prepare to use Linux graphical applications remotely
