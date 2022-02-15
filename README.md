@@ -27,10 +27,21 @@ Note: follow the steps as indicated, but in the box under Saved Sessions type ap
 # Clans tutorial
 
 ## Verify that you can open clans
-
+1. Connect to the VPN
+2. Connect to apollo2
+3. In a terminal (in apollo2) type:
 `java -jar /usr/local/bin/clans/clans.jar`
 
 ## Load a run file in clans
+1. Make a working directory in apollo2, for example:  
+`mkdir mitoProteins_claudia`
+`cd mitoProteins_claudia`
+
+2. Copy the example file for the tutorial to your working directory  
+`cp /home/blastdb/alignments/mitoRibosome/example .`
+
+3. Open clans and load the example file  
+`java -jar /usr/local/bin/clans/clans.jar example`
 
 ## Modify the P-value 
 
