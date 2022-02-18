@@ -47,7 +47,7 @@ Clans user guide [here](http://ftp.tuebingen.mpg.de/pub/protevo/CLANS/CLANS_user
 `cp /home/blastdb/alignments/mitoRibosome/example .`
 
 3. Open clans and load the example file  
-`java -jar /usr/local/bin/clans/clans.jar -load example`
+`java -jar /usr/local/bin/clans/clans.jar -load example -cpu 16`
 
 You should see something like this:  
 ![](https://github.com/Claualvarez/clustering/blob/main/images/clans_example.png)
